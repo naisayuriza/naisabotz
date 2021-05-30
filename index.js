@@ -9,7 +9,7 @@ CFonts.say('NAISABOTZ WHATSAPP', {
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`Welcome RHISHNA`, {
+CFonts.say(`Welcome To NaisaBotz`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']
@@ -45,4 +45,4 @@ function start(file) {
   })
   // console.log(p)
 }
-start('ramlan.js')
+start('naisabotz.js')
