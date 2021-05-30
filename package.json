@@ -1,5 +1,5 @@
 {
-  "name": "babybot",
+  "name": "NAISABOTZ",
   "version": "1.0.0",
   "description": "script bot whatsapp termux",
   "main": "index.js",
@@ -12,20 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ramlan404/babybot.git"
+    "url": "git+https://github.com/naisayuriza/naisabotz.git"
   },
   "keywords": [
     "botwa",
-    "ramlan",
-    "babybot",
+    "Rhishna",
+    "naisabotz",
     "whatsapp"
   ],
-  "author": "Ramlan ID",
+  "author": "Rhishna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ramlan404/babybot/issues"
+    "url": "https://github.com/naisayuriza/naisabotz/issues"
   },
-  "homepage": "https://github.com/Ramlan404/babybot#readme",
+  "homepage": "https://github.com/naisayuriza/naisabotz#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "async": "^3.2.0",
