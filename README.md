@@ -72,8 +72,8 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/rhishna capital)
-* [`Instagram Admin`](https://instagram.com/rhishna_)
+* [`Youtube Admin`](https://youtube.com/c/rhishnacapital)
+* [`Instagram Admin`](https://instagram.com/Rhishna_)
 * [`WhatsApp Admin `](https://wa.me/+6283830172470)
 * [`Group WhatsApp `]-
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
