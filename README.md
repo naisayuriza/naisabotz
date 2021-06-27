@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rhishna
 <p align="center">
-<a href="https://ibb.co/pXT8Rh1"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gg8pP4r/OIP.jpg" alt="OIP" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>JANGAN DIAMBIL NANTI AKU NANGIS LO</a><br />
 </p>
 <br>
 
@@ -13,22 +13,17 @@
 <a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/naisayuriza/naisabotz/followers"><img title="Followers" src="https://img.shields.io/github/followers/rhishna_?color=blue&style=flat-square"></a>
-<a href="https://github.com/naisayuriza/naisabotz/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/naisabotz/naisabotzcolor=red&style=flat-square"></a>
-<a href="https://github.com/naisayuriza/naisabotz/network/members"><img title="Forks" src="https://img.shields.io/github/forks/naisayuriza/naisabotz?color=red&style=flat-square"></a>
-<a href="https://github.com/naisayuriza/naisabotz/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/naisayuriza/naisabotz?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamlan404%2Fbabybot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
+<img alt="GIF" src="https://media.giphy.com/media/VDMeoeAfgadtKAJoZp/giphy.gif" width="600" />
 <div align="center">
 <details>
  
-</details>
+<NAISA ALIFIA YURIZA BEB KU>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 �THENAY.DELUXE
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 THENAY.DELUXE
 
 ### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
 
 ## NOTE:> 
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
@@ -43,12 +38,12 @@ Siapin alat dan bahannya.
 > penyimpanan yang memadai
 > aplikasi whatsapp
 > aplikasi termux
-> Sambil Nonton Poto Naisa Biar Semangat ;v
+> Sambil Nonton channel Naisa Biar Semangat ;v
 ```
 
 ### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
 ```bash
-> kalo lu belum punya apk termux, download di playstore
+> kalo kamu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage [ Lalu Ijinkan ]
 > apt-get update -y
@@ -64,7 +59,7 @@ Siapin alat dan bahannya.
 ```
 
 
-Ket: Script ini gratis ye Jangan dijual_-
+Ket: Script ini gratis ya Jangan dijual TOD_-
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 * [`Donasi RHISHNA`](https://saweria.co/rhishna)
