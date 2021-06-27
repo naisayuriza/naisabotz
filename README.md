@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 </p>
-<img alt="GIF" src="https://media.giphy.com/media/VDMeoeAfgadtKAJoZp/giphy.gif" width="600" />
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
 <div align="center">
 <details>
  
@@ -70,9 +70,8 @@ Ket: Script ini gratis ya Jangan dijual TOD_-
 * [`Youtube Admin`](https://youtube.com/c/rhishnacapital)
 * [`Instagram Admin`](https://instagram.com/Rhishna_)
 * [`WhatsApp Admin `](https://wa.me/+6283830172470)
-* [`Group WhatsApp `]-
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`NAISA ALIFIA YURIZA`]
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+<img src="https://media.giphy.com/media/XeS7Sf4xljkXFQdMFQ/giphy.gif" width="980" />
 
