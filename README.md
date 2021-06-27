@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Rhishna
 <p align="center">
-<p align='center'><a href="https://instagram.com/thenay.deluxe?"utm_medium=copy_link><img height="200" src="https://github.com/naisayuriza/naisayuriza/blob/main/profile.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<a href="https://ibb.co/pXT8Rh1"></a>
 </p>
 <br>
 
