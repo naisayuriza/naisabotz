@@ -1,7 +1,7 @@
 /*
    Silahkan Di Pakek
    Tapi Bantu Rapihin :v
-   Buatan: Miaweers
+   Buatan: Thenay Official
 */
 
 let handler = async (m, { conn, args }) => {
