@@ -57,8 +57,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/naisayuriza/naisabotz
+cd naisabotz
 npm install
 npm update
 ```
@@ -124,10 +124,4 @@ conn.logger.level = 'debug'
 
 ---------
 
-#### Powered By : [`XTEAM`](https://api.xteam.xyz)
-
-#### Author / Creator : [`Nurutomo`](https://github.com/Nurutomo)
-
-#### Most Active Contributor : [`ariffb25`](https://github.com/ariffb25)
-
-#### 2nd Most Active Contributor: [`Ftwrr`](https://github.com/Ftwrr)
+#### NAISA ALIFIA YURIZA
