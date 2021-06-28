@@ -1,1 +1,0 @@
-exports.nad = require('./nad')
