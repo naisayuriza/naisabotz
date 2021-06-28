@@ -46,13 +46,13 @@ Hi %name!,I'm %me
 
 ╭────────────✾
 │Database: %rtotalreg dari %totalreg
-│Note: Jan Bacot Kalau Bot Delayy
+│Note: Jan Spam Kak Nanti Error:(
 │Donasi Kak ketik .donasi Yah:)
 ╰──────────────
 
  ╭────ꕥ *GROUP* ꕥ────✾
- │ 1. https://chat.whatsapp.com/FG15AFeLjq4FzNN99qHVbV
- │ 2. https://chat.whatsapp.com/Lqqg4MDFI8AKis0SIAKDJM
+ │ 1. https://chat.whatsapp.com/Dw76Lz6zXshCXacDPis32n
+ │ 2. https://chat.whatsapp.com/E6IbVUBmaGY8IFoMrAzloO
  │Ramein!!!,200 Member Gw Bagi2 Limit 10000/10K
  │
  ╰──────────────
