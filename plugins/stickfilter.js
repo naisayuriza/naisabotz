@@ -1,4 +1,4 @@
-//made by Anshul
+//made by Thenay Deluxe
 const uploadImage = require('../lib/uploadImage')
 const { sticker } = require('../lib/sticker')
 const { MessageType } = require('@adiwajshing/baileys')
