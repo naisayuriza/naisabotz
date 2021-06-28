@@ -22,5 +22,5 @@ handler.help = ['attp2']
 handler.tags = ['sticker']
 handler.command = /^(attp2)$/i
 handler.limit = true
-//Made By Anshul
+//Made By Thenay Official
 module.exports = handler
