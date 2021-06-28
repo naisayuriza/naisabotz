@@ -1,7 +1,7 @@
 /*
    Silahkan Di Pakek
    Tapi Bantu Rapihin :v
-   Buatan: Miaweers
+   Buatan: Rhiss
 */
 
 const { MessageType } = require('@adiwajshing/baileys')
