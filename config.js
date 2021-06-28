@@ -1,9 +1,9 @@
 global.owner = ['62882019794561'] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['6281229782143','6289502206183'] // Premium user has unlimited limit
+global.prems = ['6283830172470','6282227952223'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
+  nrtm: 'https://naisabotz.herokuapp.com',
   xteam: 'https://api.xteam.xyz'
 }
 global.APIKeys = { // APIKey Here
@@ -13,7 +13,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'I hope you\'re fine'
-global.author = 'Nurutomo'
+global.author = 'rhiss'
 
 global.multiplier = 69 // The higher, The harder levelup
 
