@@ -22,5 +22,5 @@ handler.help = ['ttpdark']
 handler.tags = ['sticker']
 handler.command = /^(ttpdark)$/i
 handler.limit = true
-//Made By Anshul
+//Made By Thenay Deluxe
 module.exports = handler
