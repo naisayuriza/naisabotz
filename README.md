@@ -124,7 +124,7 @@ conn.logger.level = 'debug'
 
 ---------
 
-#### NAISA ALIFIA YURIZA
+#### NAISA ALIFIA YURIZA <img src="https://media.giphy.com/media/LiF9FQHuQ7owp6qxj9/giphy.gif" width="30px">
  
 #### <img alt="GIF" src="https://media.giphy.com/media/XeS7Sf4xljkXFQdMFQ/giphy.gif" width="980" /> 
  
