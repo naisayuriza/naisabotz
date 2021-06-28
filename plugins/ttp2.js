@@ -22,5 +22,5 @@ handler.help = ['ttp2']
 handler.tags = ['sticker']
 handler.command = /^(ttp2)$/i
 handler.limit = true
-//MadeByAnshul
+//MadeByThenayDeluxe
 module.exports = handler
