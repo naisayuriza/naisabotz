@@ -1,5 +1,5 @@
-// https://github.com/Nobuyaki
-// Jangan Hapus link githubnya bang :)
+// https://github.com/naisayuriza
+// Jangan Hapus link githubnya kak :)
 
 const fetch = require('node-fetch')
 let handler = async (m, { conn, usedPrefix }) => {
