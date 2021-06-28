@@ -1,6 +1,6 @@
-// Terimakasih kpd RC047 :v
-// Fitur By Xteams
-// Modified by Nurutomo (Update Xteam :v)
+// Terimakasih kpd Thenay Deluxe :v
+// Fitur By THENAY
+// Modified by Rhiss (Update Thenay :v)
 
 const { sticker } = require('../lib/sticker')
 const fetch = require('node-fetch')
