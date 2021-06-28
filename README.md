@@ -31,7 +31,7 @@ SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA 
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naisayuriza/naisabotz)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -41,8 +41,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
-cd wabot-aq
+git clone https://github.com/naisayuriza/naisabotz
+cd naisabotz
 npm install
 npm update
 ```
@@ -125,3 +125,5 @@ conn.logger.level = 'debug'
 ---------
 
 #### NAISA ALIFIA YURIZA
+ 
+<img alt="GIF" src=" https://media.giphy.com/media/XeS7Sf4xljkXFQdMFQ/giphy.gif" width="980" />  
