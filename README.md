@@ -29,7 +29,6 @@ MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
 SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
 </div>
 
-Simple WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naisayuriza/naisabotz)
 
