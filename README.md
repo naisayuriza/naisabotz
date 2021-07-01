@@ -45,7 +45,7 @@ git clone https://github.com/naisayuriza/naisabotz
 cd naisabotz
 npm install
 npm update
- node index.js
+node index.js
 ```
 
 ---------
