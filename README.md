@@ -48,7 +48,7 @@ npm install
 npm update
 node index.js
 ```
- 
+ ---------
 * <a href="https://github.com/nayjuga/NAYBOTZ"><img alt="GitHub" src="https://img.shields.io/badge/nayjuga%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 ---------
 
