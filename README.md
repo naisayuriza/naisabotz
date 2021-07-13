@@ -20,7 +20,7 @@
  
 <NAISA ALIFIA YURIZA BEB KU>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 THENAY.DELUXE
+### 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓣𝓱𝓮𝓷𝓪𝔂 𝓖𝓪𝓻𝓲𝓼𝓴𝓮𝓻𝓪𝓼
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANNEL SAYA.... DILARANG UBAH INFO!!!
