@@ -51,9 +51,9 @@ Hi %name!,I'm %me
 ╰──────────────
 
  ╭────ꕥ *GROUP* ꕥ────✾
- │ 1. https://chat.whatsapp.com/Dw76Lz6zXshCXacDPis32n
+ │ 1. https://chat.whatsapp.com/EoU10jL69O2BOVZvQMPG1D
  │ 2. https://chat.whatsapp.com/E6IbVUBmaGY8IFoMrAzloO
- │Ramein!!!,200 Member Gw Bagi2 Limit 10000/10K
+ │Ramein!!!,BOT GRATIS ANJENK GAK BUTUH DONASI
  │
  ╰──────────────
 %readmore`.trimStart(),
